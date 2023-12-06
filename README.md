@@ -7,3 +7,7 @@
 - no cat to talk to :chipmunk:
 - dreaming of seeing an earthrise once :earth_africa:
 
+## Todos:
+
+- [ ] checkboxes
+- [ ] more checkboxes
